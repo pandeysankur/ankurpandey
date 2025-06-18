@@ -1,5 +1,5 @@
 About Me 👋
-Hi, I’m Ankur Pandey, a passionate and detail-oriented QA Engineer with 1.8+ years of experience in Manual and Automation Testing in the banking domain, currently working at BDO India LLP. My journey began in software testing with a strong foundation in functional testing, test automation, and API testing, and has steadily grown into a robust QA career path.
+Hi, I’m Ankur Pandey, a passionate and detail-oriented QA Engineer with 1.8+ years of experience in Manual and Automation Testing in the banking domain, My journey began in software testing with a strong foundation in functional testing, test automation, and API testing, and has steadily grown into a robust QA career path.
 
 My educational background in Computer Applications (MCA) and certifications in ISTQB and CP-SAT have helped me build analytical and structured problem-solving skills, which I apply to real-world projects involving both manual and automated test design and execution.
 
